@@ -58,26 +58,24 @@ Seleccione por favor una de las siguientes opciones:
 Presione quit, q, esc o wq para salir
 Crear un Usuario:
 
-Opción: A
+- Opción: A
 Introduce los datos solicitados (nombre, edad, email, dirección).
 Listar Usuarios:
 
-Opción: B
+- Opción: B
 Visualiza los usuarios registrados con su ID.
 Actualizar Usuario:
 
-Opción: C
+- Opción: C
 Selecciona un ID y elige el parámetro a modificar.
 Eliminar Usuario:
 
-Opción: D
+- Opción: D
 Introduce el ID del usuario que deseas eliminar.
 
-Autor
+## Autor
 Creado por Juan Sebastián Valencia Londoño como parte del aprendizaje de Golang.
 
-Licencia
+## Licencia
 Este proyecto está bajo la Licencia MIT. Puedes consultar el archivo LICENSE para más detalles.
-
-
 Este README proporciona toda la información necesaria para comprender, instalar y usar el proyecto, además de seguir las mejores prácticas de documentación.
